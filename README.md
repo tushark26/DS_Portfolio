@@ -5,6 +5,14 @@ Example data science projects
 ## [Financial Forecasting](https://github.com/tushark26/DS_Portfolio/) 
 Description goes here 
 
+
+## [Predicting Home Prices](https://github.com/tushark26/DS_Portfolio/) 
+Description goes here 
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/tushark26/DS_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
