@@ -2,7 +2,8 @@
 
 Example data science projects
 
-#[Financial Forecasting ] (https://github.com/tushark26/DS_Portfolio/) 
+##Financial Forecasting
+[Financial Forecasting](https://github.com/tushark26/DS_Portfolio/) 
 Description goes here 
 
 You can use the [editor on GitHub](https://github.com/tushark26/DS_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
