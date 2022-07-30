@@ -2,7 +2,7 @@
 
 Example data science projects
 
-##Financial Forecasting
+## Financial Forecasting
 [Financial Forecasting](https://github.com/tushark26/DS_Portfolio/) 
 Description goes here 
 
