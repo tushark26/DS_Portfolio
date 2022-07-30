@@ -6,7 +6,7 @@ Example data science projects
 Description goes here 
 
 
-## [Predicting Home Prices](https://github.com/tushark26/DS_Portfolio/) 
+## [Predicting Home Prices](https://github.com/tushark26/DS_Portfolio/tree/main/Linear%20Regression) 
 Description goes here 
 
 
