@@ -8,3 +8,5 @@ Select data science projects
 ## [Predicting Home Prices](https://github.com/tushark26/DS_Portfolio/tree/main/Linear%20Regression) 
 
 
+## [Image Recognition](https://github.com/tushark26/DS_Portfolio/tree/main/Linear%20Regression) 
+
