@@ -4,9 +4,11 @@ Select data science projects
 
 ## [Financial Forecasting](https://github.com/tushark26/DS_Portfolio/tree/main/FinancialForecast) 
 #### Test vs Train Methodology
+Splitting data between Test & Training timeframe after after calibrating for outliers 
 <img src="FinancialForecast/images/Train vs Test.png" style="width:750px;height:200px;">
 
-#### Test vs Train Methodology
+#### Variability Matrix 
+Over time, we notice there are certain segments that are predictable vs others. The volatile models may require bottom up or assumption based forecasts instead of relying solely on algorithmic forecasts.
 <img src="FinancialForecast/images/Variability Matrix.png" style="width:400px;height:300px;">
 
 
