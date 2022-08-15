@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repository
 
-Below are  select data science projects that have piqued my interest over time. Most of them are open sourced. 
+Below are  select data science projects that have piqued my interest over time.
 
 ## [Financial Forecasting](https://github.com/tushark26/DS_Portfolio/tree/main/FinancialForecast) 
 #### Test vs Train Methodology
