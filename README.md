@@ -3,6 +3,8 @@
 Select data science projects
 
 ## [Financial Forecasting](https://github.com/tushark26/DS_Portfolio/tree/main/FinancialForecast) 
+<img src="FinancialForecast/images/Train vs Test.png" style="width:750px;height:200px;">
+<img src="FinancialForecast/images/Variability Matrix.png" style="width:750px;height:200px;">
 
 
 ## [Predicting Home Prices](https://github.com/tushark26/DS_Portfolio/tree/main/Linear%20Regression) 
