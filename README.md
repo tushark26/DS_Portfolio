@@ -14,10 +14,15 @@ Over time, we notice there are certain segments that are predictable vs others. 
 
 
 ## [Predicting Home Prices](https://github.com/tushark26/DS_Portfolio/tree/main/Linear%20Regression) 
+#### Check data for outliers 
 <img src="Linear Regression/images/Price Distb Outliers.png" style="width:500px;height:250px;">
 
+#### Sale Price vs Area
+Plotting Sale Price by Total Area layered with House Style (# of story) and Year Built gives a very interesting pattern. Controlling for age i.e. houses built between 1990's-2010 the houses with 2 stories (and hence more area) tend to have a higher price than houses with 1 story or Single levels.
 <img src="Linear Regression/images/Price vs Area Distb.png" style="width:500px;height:250px;">
 
+#### Quality of Construction
+The quality of construction plays a role in the sale price as well. Plotting construction quality (1-10) against salePrice indicates that majority of the homes have a quality score between 5-8 and sale price from 133k-270k. This is another good feature to consider for prediction.
 <img src="Linear Regression/images/Box Plots.png" style="width:500px;height:250px;">
 
 
