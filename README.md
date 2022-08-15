@@ -3,7 +3,7 @@
 Select data science projects
 
 ## [Financial Forecasting](https://github.com/tushark26/DS_Portfolio/tree/main/FinancialForecast) 
-### Test vs Train Methodology
+#### Test vs Train Methodology
 <img src="FinancialForecast/images/Train vs Test.png" style="width:750px;height:200px;">
 <img src="FinancialForecast/images/Variability Matrix.png" style="width:400px;height:300px;">
 
