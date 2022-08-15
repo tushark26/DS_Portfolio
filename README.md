@@ -28,6 +28,9 @@ The quality of construction plays a role in the sale price as well. Plotting con
 
 ## [Transfer Learning](https://github.com/tushark26/DS_Portfolio/tree/main/CV) 
 
+#### Core Idea
+Two images are used in performing neural style transfer. One image is known as the content image while the other is known as the style image. The content image is the image on which we want to apply the texture or style. The style image is the image from which the texture or texture is extracted and transferred over to the content image to produce a stylized image as output
+
 <img src="CV/Art_Generation_with_Neural_Style_Transfer/images/louvre_generated.png" style="width:750px;height:200px;">
 
 <img src="CV/Art_Generation_with_Neural_Style_Transfer/images/NY Van Gogh.png" style="width:750px;height:200px;">
