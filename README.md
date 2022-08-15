@@ -10,3 +10,4 @@ Select data science projects
 
 ## [Transfer Learning](https://github.com/tushark26/DS_Portfolio/tree/main/CV) 
 
+<img src="CV/Art_Generation_with_Neural_Style_Transfer/images/louvre_generated.png" style="width:750px;height:200px;">
